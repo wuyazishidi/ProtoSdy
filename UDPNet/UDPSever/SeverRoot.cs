@@ -17,6 +17,8 @@ namespace UDPSever {
     public class SeverRoot {
 
         UdpClient udp;
+        LoginHandler loginHandler;
+        BagHandler bagHandler;
         private static SeverRoot instance;
         public static SeverRoot Instance {
             get {
@@ -24,12 +26,11 @@ namespace UDPSever {
                     instance = new SeverRoot();
                 }
                 return instance;
-
             }
         }
-        LoginHandler loginHandler;
         public void Init() {
             loginHandler = new LoginHandler();
+            bagHandler = new BagHandler();
             udp = new UdpClient(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 17666));
             Task.Run(SeverRecive);
         }
@@ -50,6 +51,7 @@ namespace UDPSever {
                         loginHandler.ReqLogin(pkg.body,remotePoint);
                         break;
                     case CMD.BagInfo:
+                        bagHandler.ReqBagInfo(pkg.body,remotePoint);
                         break;
                     case CMD.None:
                         break;

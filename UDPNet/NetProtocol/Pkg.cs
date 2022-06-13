@@ -1,4 +1,11 @@
-﻿using System;
+﻿/****************************************************
+	文件：Pkg.cs
+	作者：Jwp
+	邮箱: 2604591896@qq.com
+	日期：2022/06/13 18:26   	
+	功能：背包
+*****************************************************/
+using System;
 using System.Collections.Generic;
 
 namespace NetProtocol {

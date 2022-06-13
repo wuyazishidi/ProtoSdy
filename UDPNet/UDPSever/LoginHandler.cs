@@ -1,4 +1,11 @@
-﻿using NetProtocol;
+﻿/****************************************************
+	文件：LoginHandler.cs
+	作者：Jwp
+	邮箱: 2604591896@qq.com
+	日期：2022/06/13 18:25   	
+	功能：
+*****************************************************/
+using NetProtocol;
 using System;
 using System.Collections.Generic;
 using System.Net;
