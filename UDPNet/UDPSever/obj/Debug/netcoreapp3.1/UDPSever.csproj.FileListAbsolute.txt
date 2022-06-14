@@ -1,0 +1,17 @@
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\bin\Debug\netcoreapp3.1\UDPSever.exe
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\bin\Debug\netcoreapp3.1\UDPSever.deps.json
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\bin\Debug\netcoreapp3.1\UDPSever.runtimeconfig.json
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\bin\Debug\netcoreapp3.1\UDPSever.runtimeconfig.dev.json
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\bin\Debug\netcoreapp3.1\UDPSever.dll
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\bin\Debug\netcoreapp3.1\UDPSever.pdb
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\bin\Debug\netcoreapp3.1\NetProtocol.dll
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\bin\Debug\netcoreapp3.1\NetProtocol.pdb
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\obj\Debug\netcoreapp3.1\UDPSever.csproj.AssemblyReference.cache
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\obj\Debug\netcoreapp3.1\UDPSever.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\obj\Debug\netcoreapp3.1\UDPSever.AssemblyInfoInputs.cache
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\obj\Debug\netcoreapp3.1\UDPSever.AssemblyInfo.cs
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\obj\Debug\netcoreapp3.1\UDPSever.csproj.CoreCompileInputs.cache
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\obj\Debug\netcoreapp3.1\UDPSever.csproj.CopyComplete
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\obj\Debug\netcoreapp3.1\UDPSever.dll
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\obj\Debug\netcoreapp3.1\UDPSever.pdb
+E:\GitHubPro\ProtoSdy\UDPNet\UDPSever\obj\Debug\netcoreapp3.1\UDPSever.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\GitHubPro\UDPNet\BasicPB\bin\Debug\netcoreapp3.1\BasicPB.exe
+E:\GitHubPro\UDPNet\BasicPB\bin\Debug\netcoreapp3.1\BasicPB.deps.json
+E:\GitHubPro\UDPNet\BasicPB\bin\Debug\netcoreapp3.1\BasicPB.runtimeconfig.json
+E:\GitHubPro\UDPNet\BasicPB\bin\Debug\netcoreapp3.1\BasicPB.runtimeconfig.dev.json
+E:\GitHubPro\UDPNet\BasicPB\bin\Debug\netcoreapp3.1\BasicPB.dll
+E:\GitHubPro\UDPNet\BasicPB\bin\Debug\netcoreapp3.1\BasicPB.pdb
+E:\GitHubPro\UDPNet\BasicPB\bin\Debug\netcoreapp3.1\PELog.dll
+E:\GitHubPro\UDPNet\BasicPB\obj\Debug\netcoreapp3.1\BasicPB.csproj.AssemblyReference.cache
+E:\GitHubPro\UDPNet\BasicPB\obj\Debug\netcoreapp3.1\BasicPB.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubPro\UDPNet\BasicPB\obj\Debug\netcoreapp3.1\BasicPB.AssemblyInfoInputs.cache
+E:\GitHubPro\UDPNet\BasicPB\obj\Debug\netcoreapp3.1\BasicPB.AssemblyInfo.cs
+E:\GitHubPro\UDPNet\BasicPB\obj\Debug\netcoreapp3.1\BasicPB.csproj.CoreCompileInputs.cache
+E:\GitHubPro\UDPNet\BasicPB\obj\Debug\netcoreapp3.1\BasicPB.csproj.CopyComplete
+E:\GitHubPro\UDPNet\BasicPB\obj\Debug\netcoreapp3.1\BasicPB.dll
+E:\GitHubPro\UDPNet\BasicPB\obj\Debug\netcoreapp3.1\BasicPB.pdb
+E:\GitHubPro\UDPNet\BasicPB\obj\Debug\netcoreapp3.1\BasicPB.genruntimeconfig.cache

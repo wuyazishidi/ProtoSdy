@@ -1,0 +1,10 @@
+E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\bin\Debug\netstandard2.0\NetProtocol.deps.json
+E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\bin\Debug\netstandard2.0\NetProtocol.dll
+E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\bin\Debug\netstandard2.0\NetProtocol.pdb
+E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.csproj.AssemblyReference.cache
+E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.AssemblyInfoInputs.cache
+E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.AssemblyInfo.cs
+E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.csproj.CoreCompileInputs.cache
+E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.dll
+E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.pdb
