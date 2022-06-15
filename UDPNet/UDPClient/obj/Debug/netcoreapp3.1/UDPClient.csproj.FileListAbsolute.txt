@@ -1,0 +1,5 @@
+H:\Jwp\GitPro\ProtoSdy\UDPNet\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csproj.AssemblyReference.cache
+H:\Jwp\GitPro\ProtoSdy\UDPNet\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.GeneratedMSBuildEditorConfig.editorconfig
+H:\Jwp\GitPro\ProtoSdy\UDPNet\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfoInputs.cache
+H:\Jwp\GitPro\ProtoSdy\UDPNet\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfo.cs
+H:\Jwp\GitPro\ProtoSdy\UDPNet\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csproj.CoreCompileInputs.cache
