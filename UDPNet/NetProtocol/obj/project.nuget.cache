@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "n66YPq1uZ/33eELH7/OILw+itLTrMJ52OkUD41/IzpHpwOfAA7LeoH1Num2aY9xZ+ZD0+IrXmRIcjFg4jiqCYw==",
+  "dgSpecHash": "JyofNWyj6MaLreoQYfZ58LOyS2EFT+zyJSfE3hw2rHP6E+NwOc9tWz0AYUQdLkhW576cDJN8V2dNaymnmy7p6A==",
   "success": true,
-  "projectFilePath": "E:\\GitHubPro\\ProtoSdy\\UDPNet\\NetProtocol\\NetProtocol.csproj",
+  "projectFilePath": "H:\\Jwp\\GitPro\\ProtoSdy\\UDPNet\\NetProtocol\\NetProtocol.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

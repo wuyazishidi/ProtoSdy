@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xxj4iQLT691h0O+8Qe/CiTErTJ2NG6b4Azrz2epeKzmpAgwZSolrvHesjQTEVscZ2epkp+9h6t9hN/QxsJRlQQ==",
+  "dgSpecHash": "RuQVEypLtloz0HMYgIhJls44Elkc9B+ZDOHznAaSswu86wsJ2eJeXl1xJzhjJkmO0XaX5SD3HGzTAh02yV7L3A==",
   "success": true,
-  "projectFilePath": "E:\\GitHubPro\\ProtoSdy\\UDPNet\\BasicPB\\BasicPB.csproj",
+  "projectFilePath": "H:\\Jwp\\GitPro\\ProtoSdy\\UDPNet\\BasicPB\\BasicPB.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\chris\\.nuget\\packages\\pelog\\1.0.1\\pelog.1.0.1.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\protobuf-net\\3.0.62\\protobuf-net.3.0.62.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\protobuf-net.core\\3.0.62\\protobuf-net.core.3.0.62.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\pelog\\1.0.1\\pelog.1.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\protobuf-net\\3.0.62\\protobuf-net.3.0.62.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\protobuf-net.core\\3.0.62\\protobuf-net.core.3.0.62.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
   ],
   "logs": []
 }

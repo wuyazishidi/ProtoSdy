@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I64sTKC0s7vipTZt/2DJfZca62TQX9X1doV1Jfn0bZI9VmKa5rVc8+1y/vgKvlXilVVprFvwo3HQZj0JM9EdXA==",
+  "dgSpecHash": "8DmuheId57RT/S1/1N645p/r+qBq7IjLq+/ZRclUwH/wYpP/Wf0EBugxOtz2Beq4lBOP3DaKKyIVDMKXZreajw==",
   "success": true,
-  "projectFilePath": "E:\\GitHubPro\\ProtoSdy\\UDPNet\\UDPSever\\UDPSever.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "H:\\Jwp\\GitPro\\ProtoSdy\\UDPNet\\UDPSever\\UDPSever.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
   "logs": []
 }

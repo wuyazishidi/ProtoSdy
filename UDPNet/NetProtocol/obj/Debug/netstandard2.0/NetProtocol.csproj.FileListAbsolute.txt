@@ -8,3 +8,13 @@ E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.As
 E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.csproj.CoreCompileInputs.cache
 E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.dll
 E:\GitHubPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.pdb
+H:\Jwp\GitPro\ProtoSdy\UDPNet\NetProtocol\bin\Debug\netstandard2.0\NetProtocol.deps.json
+H:\Jwp\GitPro\ProtoSdy\UDPNet\NetProtocol\bin\Debug\netstandard2.0\NetProtocol.dll
+H:\Jwp\GitPro\ProtoSdy\UDPNet\NetProtocol\bin\Debug\netstandard2.0\NetProtocol.pdb
+H:\Jwp\GitPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.csproj.AssemblyReference.cache
+H:\Jwp\GitPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.GeneratedMSBuildEditorConfig.editorconfig
+H:\Jwp\GitPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.AssemblyInfoInputs.cache
+H:\Jwp\GitPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.AssemblyInfo.cs
+H:\Jwp\GitPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.csproj.CoreCompileInputs.cache
+H:\Jwp\GitPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.dll
+H:\Jwp\GitPro\ProtoSdy\UDPNet\NetProtocol\obj\Debug\netstandard2.0\NetProtocol.pdb
